@@ -1,14 +1,14 @@
 {
-  "name": "registration-module",
+  "name": "app.js",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Packages\r ___________________________________________________________________________________________________________\r npm i  express btcryptjs express-ejs-layouts mongoose connect-flash passport passport-local express-session",
+  "main": "app.js",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "roman",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
@@ -23,5 +23,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UliashynRoman/Login-System-M.E.N.git"
+  },
+  "bugs": {
+    "url": "https://github.com/UliashynRoman/Login-System-M.E.N/issues"
+  },
+  "homepage": "https://github.com/UliashynRoman/Login-System-M.E.N#readme"
 }
